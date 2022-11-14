@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="./pages-titles.xsl"?>
+<pageset>
+<about info="Erstellt mit" href="https://replit.com/@MichaelGlunz/CCCH-Metadata-Extractor"/>
+<page name="analytics-einrichten.html">
+<title>Web Analytics einrichten - Calya Consult</title>
+<meta content="Einrichten einer Google Analytics Property für Ihre Homepage" name="description"/>
+<meta content="Die Zahlen Ihrer Website immer im Griff" property="og:description"/>
+</page>
+<page name="domain-management.html">
+<title>Domain-Management Calya Consult</title>
+<meta content="Alle Ihre Domains immer im Griff" name="description"/>
+<meta content="Domain-Management vom Profi" property="og:description"/>
+</page>
+<page name="proposition.html">
+<title>Kombi-Angebot Calya Consult</title>
+<meta content="Kombi-Angebot: Website-Check-Up und Traffic Management" name="description"/>
+<meta content="Website-Check-Up und Traffic Management" property="og:description"/>
+</page>
+<page name="web-analytics.html">
+<title>Web Analytics - Zahlen erheben und auswerten - Calya Consult</title>
+<meta content="Mit Analytics werden Sie die Zugriffszahlen Ihrer Website und das Verhalten Ihrer Besucher besser verstehen - und erkennen, wo noch Luft nach oben besteht." name="description"/>
+<meta content="Die Zahlen Ihrer Website immer im Griff" property="og:description"/>
+</page>
+<page name="business-plan.html">
+<title>Businessplan Calya Consult</title>
+<meta content="Kompetente Hilfe bei der Erstellung eines Businessplans für Ihr Unternehmen" name="description"/>
+<meta content="Kompetente Hilfe bei der Erstellung eines Businessplans für Ihr Unternehmen" property="og:description"/>
+</page>
+<page name="index.html">
+<title>Calya Consult (CH)</title>
+<meta content="Ihr Ansprechpartner für das digitale Business: Web Analytics, Datenpflege, Website-Migration, Traffic Management, Suchmaschinenoptimierung" name="description"/>
+</page>
+<page name="suchmaschinen-optimierung.html">
+<title>Suchmaschinen-Optimierung Calya Consult</title>
+<meta content="Werden Sie in Google, Bing und anderen Suchmaschinen besser gefunden" name="description"/>
+<meta content="Suchmaschinen-Optimierung SEO" property="og:description"/>
+</page>
+<page name="website-check-up.html">
+<title>Website Check-Up Calya Consult</title>
+<meta content="Der Website-Test: Lassen Sie Ihren Internetauftritt auf Probleme und Verbesserungspotenzial untersuchen" name="description"/>
+<meta content="Ein Check-Up für Ihre Website" property="og:description"/>
+</page>
+<page name="businessplan.html">
+<title>Businessplan Calya Consult</title>
+<meta content="Kompetente Hilfe bei der Erstellung eines Businessplans für Ihr Unternehmen" name="description"/>
+<meta content="Kompetente Hilfe bei der Erstellung eines Businessplans für Ihr Unternehmen" property="og:description"/>
+</page>
+<page name="index-september-A.html">
+<title>Calya Consult (CH)</title>
+<meta content="Ihr Ansprechpartner für das digitale Business" name="description"/>
+</page>
+<page name="website-check-up-light.html">
+<title>Website Check-Up Light - Calya Consult</title>
+<meta content="Der Website Check-Up Light ist die perfekte Lösung für Unternehmen, die sich einen umfassenden Überblick über ihre Website verschaffen wollen." name="description"/>
+<meta content="Ein Check-Up für Ihre Website - Light-Version" property="og:description"/>
+</page>
+<page name="checkup.html">
+<title>Calya Consult: Angebot Digitaler Check-Up</title>
+<meta content="Überprüfung Ihrer Website auf Probleme mit Suchmaschinen und Analytics Tracking; Aufzeigen von ungenutztem Potenzial" name="description"/>
+</page>
+<page name="index-september.html">
+<title>404 Not Found</title>
+</page>
+<page name="website-monitoring.html">
+<title>Website Monitoring Calya Consult</title>
+<meta content="Professionelle Überwachung und Kontrolle Ihrer Website. " property="og:description"/>
+<meta content="Website Monitoring: Überwachung und Kontrolle Ihrer Website. Überlassen Sie es nicht dem Zufall, ob Sie Probleme schnell erkennen und beheben können" name="description"/>
+</page>
+<page name="datenbereinigung.html">
+<title>Datenbereinigung Calya Consult</title>
+<meta content="Aufbereitung und Bereinigung Ihrer Daten" name="description"/>
+<meta content="Datenaufbereitung, Datenbereinigung, Data Wrangling" property="og:description"/>
+</page>
+<page name="internet-recherche.html">
+<title>Internet-Recherche Calya Consult</title>
+<meta content="Suchen im Internet? Wir helfen Ihnen, die Perlen im Ozean zu finden" name="description"/>
+<meta content="Internet-Recherche vom Profi" property="og:description"/>
+</page>
+<page name="datenschutz.html">
+<title>Datenschutzerklärung Calya Consult</title>
+<meta content="Datenschutz auf der Website von Calya Consult GmbH, Zug, Schweiz" name="description"/>
+</page>
+<page name="muster-check-up.html">
+<title>Website Check-Up Light: Resultate</title>
+<meta content="Muster für einen Website-Check-Up Light" name="description"/>
+<meta content="Muster für einen Website-Check-Up Light" property="og:description"/>
+</page>
+<page name="traffic-analyse.html">
+<title>Traffic Analyse - Calya Consult</title>
+<meta content="Traffic Analyse: verstehen, welches die Treiber Ihres Internet Traffics sind. Die nackten Zahlen sagen oft nicht viel, doch vor dem Auge des Experten enthüllen sich manchmal verblüffende Einsichten. Probieren Sie es aus!" name="description"/>
+<meta content="Verstehen, was Besucher auf Ihre Website führt" property="og:description"/>
+</page>
+<page name="digitaler-werkzeugkasten.html">
+<title>Calya Consult: Digitaler Werkzeugkasten</title>
+<meta content="Digitale Werkzeuge für Ihr Geschäft" name="description"/>
+</page>
+<page name="traffic-management.html">
+<title>Traffic Management Calya Consult</title>
+<meta content="Mehr Besucher für Ihre Website" name="description"/>
+<meta content="Zugriffszahlen verstehen und zahlenbasiert optimieren" property="og:description"/>
+</page>
+</pageset>
