@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="./pages.xsl"?>
+<pageset>
+
+<page name="index.html"><head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-68045843-6"></script>
+<script>
+        window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'UA-68045843-6');
+    </script>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<!-- Meta Description -->
+<meta content="Ihr Ansprechpartner für das digitale Business: Web Analytics, Datenpflege, Website-Migration, Traffic Management, Suchmaschinenoptimierung" name="description"/>
+<title>Calya Consult (CH)</title>
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,700" rel="stylesheet"/>
+<link crossorigin="anonymous" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" rel="stylesheet"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/>
+<link href="css/style.css" rel="stylesheet"/>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<style>
+        body > div.site-container > article > h1 {font-size: 1.5rem; font-weight:bold;color:#555}
+        		 body > div.site-container > article > h2 {font-size: 1.125rem; font-weight:bold}
+        		 body > div.site-container > article:nth-child(4) > div > div > div > h2 {font-size: 1.125rem; font-weight:bold;}
+        		 h2 {font-weight:bold;margin-top:1.5em}
+        		 h4.mb-20 {font-weight:bold}
+        		 article ul {margin-top:1em}
+        		 article li {margin-top:0.25em}
+        		 .footer {border-top:.1em solid #aaa;margin-top:1.5em}
+        		 strong {font-weight:bold}
+        		 li {margin-left:2em}
+				 .big {font-size:120%;font-weight:bold;}
+         .rsymb {float:left;font-size:4em;margin:0.5em;color:#E60005;transform: rotate(315deg);}
+         .asymb {float:left;font-size:3em;margin:0.5em;color:#E60005;}
+         .dsymb {margin-top:0.5em;}
+         .eingerueckt {padding-left:2.5em;}
+         #aktion {background-image: url('images/waves.jpg');}
+         #aktion > div, #aktion > h2 > span.aktion-hdl {background-color: #ffffff; padding:.5em;}
+         #aktion > div {border:3px solid green;}
+         .aktion-hdl {font-size: 200%; color:crimson;border-radius: 50px 50px 50px 50px / 39px 39px 39px 39px;background-color: #bdf3b1 !important;}
+         #qrimgdiv {margin-top:0.8em}
+         #qrlink {font-size:150%;font-weight:bold}
+         #showqr {padding-top:5px}
+         #ccinfo {margin-top:1.5em}
+         #h2contact {font-size:160%;font-weight:bold;color: #333}
+        .with-border {border:1px solid #333;padding:3px;}
+    </style>
+</head></page>
+<page name="index-september-A.html"><head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-68045843-6"></script>
+<script>
+			window.dataLayer = window.dataLayer || [];
+				function gtag(){dataLayer.push(arguments);}
+				gtag('js', new Date());
+				gtag('config', 'UA-68045843-6');
+	</script>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="Ihr Ansprechpartner für das digitale Business" name="description"/>
+<title>Calya Consult (CH)</title>
+<!-- Bootstrap core CSS -->
+<link href="./assets/dist/css/bootstrap.min.css" rel="stylesheet"/>
+<link href="./assets/dist/css/navbar.css" rel="stylesheet"/>
+<!-- Custom styles for this template -->
+<link href="./assets/dist/css/starter-template.css" rel="stylesheet"/>
+<style>
+		.bd-placeholder-img {
+		        font-size: 1.125rem;
+		        text-anchor: middle;
+		        -webkit-user-select: none;
+		        -moz-user-select: none;
+		        user-select: none;
+		      }
+
+		      @media (min-width: 768px) {
+		        .bd-placeholder-img-lg {
+		          font-size: 3.5rem;
+		        }
+		      }
+		h2.h2reduced {font-size:164%}
+		h4.h4reduced {font-size:110%}
+	</style>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+</head></page>
+<page name="index-september.html"><head>
+<meta charset="utf-8"/>
+<meta content="ie=edge" http-equiv="x-ua-compatible"/>
+<meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/>
+<title>404 Not Found</title>
+<link href="/error_docs/styles.css" rel="stylesheet"/>
+</head></page></pageset>
